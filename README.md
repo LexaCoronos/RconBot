@@ -35,3 +35,5 @@
 💰 Цена лицензии #$ (Возможна оплата другой валютой эквивалентно курсу).
 
 ✉️ Покупать в Telegram @lexa_coronos
+
+[asd](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot1.jpg)

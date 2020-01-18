@@ -28,7 +28,7 @@
 
 🔹 Демонстрация рабочего бота: Telegram @RconConsoleTest_Bot.
 
-🔹 Интерфейс показан в изображениях в посте (https://www.instagram.com/p/Bx7FRXrAdOI/)
+🔹 Интерфейс бота показан на изображениях ниже
 
 -----------------------------------
 
@@ -36,4 +36,8 @@
 
 ✉️ Покупать в Telegram @lexa_coronos
 
-![asd](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot1.jpg)
+
+![screen1](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot1.jpg)
+![screen2](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot2.jpg)
+![screen3](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot3.jpg)
+![screen4](https://github.com/LexaCoronos/RconBot/blob/master/img/screenshot4.jpg)
